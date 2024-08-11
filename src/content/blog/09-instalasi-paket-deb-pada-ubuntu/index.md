@@ -47,7 +47,7 @@ Jika Anda lebih suka menggunakan antarmuka grafis:
    - Klik kanan pada file dan pilih "Open With" > "Gdebi Package Installer".
    - Klik tombol "Install Package".
 
-### Metode 4: Menggunakan `Software Center` (GUI)
+## Metode 4: Menggunakan `Software Center` (GUI)
 
 1. **Unduh paket .deb**: Pastikan Anda telah mengunduh file .deb yang ingin diinstal.
 2. **Buka file manager dan navigasi ke tempat file .deb berada**.
