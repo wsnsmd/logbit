@@ -1,8 +1,7 @@
 ---
 title: "Desain Tabel Usulan Pelatihan"
 description: "Contoh desain tabel dan relasinya untuk usulan pelatihan."
-date: "2024-08-13"
-time: "10:00:00"
+date: "2024-08-12"
 ---
 
 Untuk membangun database yang mendukung skenario dimana user dapat menginput usulan pelatihan, melihat usulan mereka sendiri, dan admin dapat melihat semua usulan serta melakukan verifikasi, persetujuan, atau penolakan, kita perlu beberapa tabel utama untuk menyimpan data yang relevan. Berikut adalah desain tabel yang saya rekomendasikan:
