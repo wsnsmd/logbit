@@ -2,6 +2,7 @@
 title: "Hukum Rekayasa Perangkat Lunak"
 description: "Kompilasi dari beberapa pendapat ahli dalam rekayasa perangkat lunak."
 date: "2024-08-13"
+time: "11:00:00"
 ---
 
 Berikut adalah 50 hukum dalam rekayasa perangkat lunak (software engineering) yang merangkum prinsip-prinsip dan aturan yang sering diakui di dalam industri ini:
