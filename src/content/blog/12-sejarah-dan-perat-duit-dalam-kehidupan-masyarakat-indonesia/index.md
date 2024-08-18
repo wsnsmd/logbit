@@ -1,5 +1,5 @@
 ---
-title: "Sejarah dan Perat Duit dalam Kehidupan Masyarakat Indonesia"
+title: "Sejarah dan Peran Duit dalam Kehidupan Masyarakat Indonesia"
 description: "Kata yang memiliki sejarah panjang dan mendalam antara Indonesia dan Belanda."
 date: "2024-08-14"
 ---
