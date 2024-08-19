@@ -4,7 +4,7 @@ description: "Menghidupkan Semangat Nasional atau Menjadi Sekadar Seremoni?"
 date: "2024-08-17"
 ---
 
-# Perlombaan Hari Kemerdekaan: Menghidupkan Semangat Nasional atau Menjadi Sekadar Seremoni?
+**Perlombaan Hari Kemerdekaan: Menghidupkan Semangat Nasional atau Menjadi Sekadar Seremoni?**
 
 Hari Kemerdekaan Indonesia yang jatuh setiap tanggal 17 Agustus selalu menjadi momen bersejarah yang penuh dengan semangat patriotisme. Salah satu tradisi yang tidak pernah terlewatkan adalah perlombaan-perlombaan yang diadakan di berbagai pelosok negeri. Mulai dari lomba makan kerupuk, balap karung, hingga panjat pinang, semuanya menjadi bagian tak terpisahkan dari perayaan tersebut. Namun, di balik keseruan dan kebersamaan yang tercipta, ada pertanyaan yang patut kita renungkan: Apakah perlombaan-perlombaan ini benar-benar memiliki nilai yang mendalam, ataukah hanya sekadar seremoni yang semakin hari kehilangan maknanya?
 
