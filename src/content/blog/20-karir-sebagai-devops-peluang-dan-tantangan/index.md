@@ -1,7 +1,7 @@
 ---
 title: "Karir sebagai DevOps: Peluang dan Tantangan"
 description: "DevOps: Populer, Menjanjikan, Namun Penuh Tantangan Karir"
-date: "2024-08-21"
+date: "2024-08-22"
 ---
 
 ***Karir sebagai DevOps: Peluang dan Tantangan***
