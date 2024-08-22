@@ -12,24 +12,24 @@ Dalam beberapa tahun terakhir, DevOps telah menjadi salah satu pendekatan paling
 
 ## Peluang dalam Karir DevOps
 
-#### Permintaan yang Tinggi
+1. ***Permintaan yang Tinggi***
 Salah satu daya tarik utama dari karir DevOps adalah tingginya permintaan terhadap profesional di bidang ini. Perusahaan dari berbagai sektor industri semakin menyadari pentingnya DevOps dalam mempercepat siklus pengembangan perangkat lunak dan meningkatkan efisiensi operasi TI. Permintaan ini tidak hanya datang dari perusahaan teknologi, tetapi juga dari sektor perbankan, ritel, kesehatan, dan manufaktur. Akibatnya, DevOps engineer menjadi salah satu posisi yang paling dicari dalam industri TI.
 
-#### Gaji yang Kompetitif
+2. ***Gaji yang Kompetitif***
 Dengan tingginya permintaan, gaji untuk profesional DevOps juga relatif tinggi dibandingkan dengan banyak peran lain di bidang TI. Menurut beberapa laporan industri, DevOps engineer dapat mengharapkan gaji yang signifikan, terutama bagi mereka yang memiliki pengalaman dan keterampilan yang solid dalam otomasi, CI/CD (Continuous Integration/Continuous Deployment), dan alat DevOps populer seperti Jenkins, Docker, Kubernetes, dan AWS.
 
-#### Peran yang Dinamis dan Menantang
+3. ***Peran yang Dinamis dan Menantang***
 DevOps bukanlah peran statis. Profesional di bidang ini dituntut untuk terus belajar dan beradaptasi dengan teknologi baru serta praktik terbaik dalam pengembangan dan operasi. Ini menjadikan karir DevOps menarik bagi mereka yang suka tantangan dan memiliki semangat untuk pembelajaran berkelanjutan. Keterampilan DevOps juga mencakup berbagai aspek, termasuk scripting, manajemen infrastruktur, keamanan, serta kolaborasi dan komunikasi yang efektif dengan berbagai tim.
 
 ## Tantangan dalam Karir DevOps
 
-### Kompleksitas dan Kurva Pembelajaran yang Curam
+1. ***Kompleksitas dan Kurva Pembelajaran yang Curam***
 Sementara peluang di bidang DevOps sangat menjanjikan, kompleksitasnya juga tinggi. DevOps melibatkan berbagai alat, teknologi, dan metodologi yang harus dikuasai, seperti otomasi, monitoring, konfigurasi manajemen, serta prinsip-prinsip agile dan lean. Bagi banyak profesional TI, mempelajari semua ini dapat menjadi tantangan besar, terutama jika mereka berasal dari latar belakang yang berbeda seperti pengembangan perangkat lunak tradisional atau administrasi sistem.
 
-### Tekanan untuk Terus Berinovasi
+2. ***Tekanan untuk Terus Berinovasi***
 Karena DevOps berfokus pada pengiriman perangkat lunak yang cepat dan andal, profesional di bidang ini seringkali bekerja di bawah tekanan tinggi untuk terus berinovasi dan memperbaiki proses. Mereka harus memastikan bahwa setiap rilis perangkat lunak dapat dilakukan dengan cepat tanpa mengorbankan kualitas atau keamanan. Tekanan ini bisa menjadi tantangan mental dan emosional, terutama dalam lingkungan kerja yang sangat dinamis.
 
-### Kolaborasi Antar Tim yang Tidak Selalu Mudah
+3. ***Kolaborasi Antar Tim yang Tidak Selalu Mudah***
 Salah satu prinsip dasar DevOps adalah kolaborasi yang erat antara tim pengembangan dan operasi. Namun, dalam praktiknya, mencapai kolaborasi yang efektif dapat menjadi tantangan. Perbedaan budaya kerja, prioritas, dan bahkan bahasa teknis antara kedua tim dapat menyebabkan hambatan dalam komunikasi dan koordinasi. Oleh karena itu, seorang profesional DevOps harus memiliki kemampuan komunikasi yang baik dan keterampilan manajemen antar tim.
 
 ## Kesimpulan
