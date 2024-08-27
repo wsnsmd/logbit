@@ -44,7 +44,7 @@ Meskipun sistem informasi memiliki banyak manfaat, implementasinya juga dapat di
 - **Kualitas Data**: Kualitas data yang tidak akurat dapat mempengaruhi keputusan yang diambil oleh manajemen.
 - **Keamanan Data**: Keamanan data merupakan salah satu tantangan utama dalam implementasi sistem informasi, karena data yang tidak aman dapat menyebabkan kerugian besar.
 
-### Kesimpulan
+## Kesimpulan
 
 Sistem informasi adalah konsep yang sangat penting dalam dunia bisnis dan organisasi. Dengan menggabungkan teknologi informasi, prosedur kerja, manusia, dan data, sistem informasi dapat membantu meningkatkan efisiensi kerja, mengurangi dampak kerugian, dan mengembangkan strategi bisnis yang lebih efektif. Namun, implementasinya juga dapat dihadapi dengan beberapa tantangan, seperti ketergantungan pada teknologi, kualitas data, dan keamanan data. Oleh karena itu, penting untuk memahami pengertian, fungsi, dan manfaat sistem informasi, serta menghadapi tantangan yang ada dengan strategi yang tepat.
 
