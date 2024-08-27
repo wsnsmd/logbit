@@ -51,11 +51,11 @@ Sistem informasi adalah konsep yang sangat penting dalam dunia bisnis dan organi
 ---
 
 Daftar Referensi:
-[1] http://repository.fe.unj.ac.id/9176/7/Bibliography.pdf
-[2] https://www.jurnal.id/id/blog/mengenal-sistem-informasi-manajemen-dan-manfaatnya-bagi-perusahaan/
-[3] https://bsi.today/pengertian-sistem-informasi/
-[4] https://mtarget.co/blog/pengertian-sistem-informasi/
-[5] https://pasla.jambiprov.go.id/apa-itu-sistem-informasi-pengertian-tujuan-fungsi-komponen-dan-contohnya/
-[6] https://si.almaata.ac.id/2024/06/24/mengenal-sistem-informasi-manajemen-pengertian-fungsi-dan-manfaat-serta-tantangan/
-[7] https://etheses.uinsgd.ac.id/8790/1/Buku%20Sistem%20Informasi%20Manajemen.pdf
-[8] https://si.fst.unair.ac.id/id/2024/04/30/sistem-informasi-manajemen-pengertian-komponen-manfaat-dan-tantangan/
+1. http://repository.fe.unj.ac.id/9176/7/Bibliography.pdf
+2. https://www.jurnal.id/id/blog/mengenal-sistem-informasi-manajemen-dan-manfaatnya-bagi-perusahaan/
+3. https://bsi.today/pengertian-sistem-informasi/
+4. https://mtarget.co/blog/pengertian-sistem-informasi/
+5. https://pasla.jambiprov.go.id/apa-itu-sistem-informasi-pengertian-tujuan-fungsi-komponen-dan-contohnya/
+6. https://si.almaata.ac.id/2024/06/24/mengenal-sistem-informasi-manajemen-pengertian-fungsi-dan-manfaat-serta-tantangan/
+7. https://etheses.uinsgd.ac.id/8790/1/Buku%20Sistem%20Informasi%20Manajemen.pdf
+8. https://si.fst.unair.ac.id/id/2024/04/30/sistem-informasi-manajemen-pengertian-komponen-manfaat-dan-tantangan/

@@ -52,7 +52,7 @@ Zettabyte File System (ZFS) adalah sebuah sistem file yang dirancang untuk menga
 ---
 
 Daftar Referensi:
-[1] http://repository.iaincurup.ac.id/712/1/PROCEEDING%20STAI%20MAARIF%20JAMBI.pdf
-[2] https://adoc.pub/the-save-pcmav-53-valhalla-earth-firefox-4-aplikasi-penting-.html
-[3] https://repository.usd.ac.id/12884/1/2016%20Psikologi%20dan%20Teknologi%20Informasi.pdf
-[4] https://www.researchgate.net/profile/Imam_Cholissodin/publication/325381687_Buku_Analisis_Big_Data/links/5b0928cfa6fdcc8c25309f9e/Buku-Analisis-Big-Data.pdf
+1. http://repository.iaincurup.ac.id/712/1/PROCEEDING%20STAI%20MAARIF%20JAMBI.pdf
+2. https://adoc.pub/the-save-pcmav-53-valhalla-earth-firefox-4-aplikasi-penting-.html
+3. https://repository.usd.ac.id/12884/1/2016%20Psikologi%20dan%20Teknologi%20Informasi.pdf
+4. https://www.researchgate.net/profile/Imam_Cholissodin/publication/325381687_Buku_Analisis_Big_Data/links/5b0928cfa6fdcc8c25309f9e/Buku-Analisis-Big-Data.pdf
