@@ -25,7 +25,7 @@ Untuk mengatasi masalah tersebut, Anda dapat menggunakan fitur Hairpin NAT pada 
    - **Set Nama Interface**: Set nama interface.
    - **Konfigurasi PPPoE Client**: Konfigurasi PPPoE client pada interface WAN.
    - **Konfigurasi DNS**: Konfigurasi DNS untuk memudahkan akses ke internet.
-   - **Konfigurasi NAT untuk LAN**: Konfigurasi source NAT untuk mengubah alamat IP lokal menjadi alamat IP publik[^2][^4].
+   - **Konfigurasi NAT untuk LAN**: Konfigurasi source NAT untuk mengubah alamat IP lokal menjadi alamat IP publik[^2].
 
 2. **Konfigurasi Hairpin NAT**
    - **Buat Alamat-List**: Buat alamat-list untuk LAN dan WAN.
@@ -80,12 +80,12 @@ Dengan demikian, perangkat di jaringan lokal dapat mengakses server web mengguna
 
 Hairpin NAT adalah fitur yang sangat berguna dalam mengatasi masalah akses ke server atau layanan di dalam jaringan lokal menggunakan alamat IP publik. Dengan konfigurasi yang tepat pada router Mikrotik, Anda dapat memungkinkan perangkat di jaringan lokal untuk mengakses server atau layanan tersebut dengan mudah. Dengan demikian, Hairpin NAT menjadi salah satu solusi yang efektif dalam mengelola jaringan lokal yang kompleks.
 
-Citations:
-[^1] https://citraweb.com/artikel/75/
-[^2] https://www.youtube.com/watch?v=daGs-P-ROj4
-[^3] https://www.youtube.com/watch?v=1I5FywY6opQ
-[^4] https://help.mikrotik.com/docs/display/ROS/NAT
-[^5] https://forum.mikrotik.com/viewtopic.php?t=172380
-[^6] https://github.com/misterkrittin/Scripts-MikroTik/blob/main/%5BScript-MikroTik%5D%20Hairpin%20NAT.txt
-[^7] https://forum.mikrotik.com/viewtopic.php?t=196996
-[^8] https://betweenmeandlinux.wordpress.com/2017/05/23/mikrotik-hairpin-nat-akses-ke-2-server-dari-lokal-dan-internet/
+Referensi:
+[^1]: https://citraweb.com/artikel/75/
+[^2]: https://www.youtube.com/watch?v=daGs-P-ROj4
+[^3]: https://www.youtube.com/watch?v=1I5FywY6opQ
+[^4]: https://help.mikrotik.com/docs/display/ROS/NAT
+[^5]: https://forum.mikrotik.com/viewtopic.php?t=172380
+[^6]: https://github.com/misterkrittin/Scripts-MikroTik/blob/main/%5BScript-MikroTik%5D%20Hairpin%20NAT.txt
+[^7]: https://forum.mikrotik.com/viewtopic.php?t=196996
+[^8]: https://betweenmeandlinux.wordpress.com/2017/05/23/mikrotik-hairpin-nat-akses-ke-2-server-dari-lokal-dan-internet/
