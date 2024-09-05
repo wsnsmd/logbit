@@ -1,6 +1,6 @@
 ---
 title: "Apa itu Hairpin NAT dan Konfigurasi pada Mikrotik"
-description: "Memahami Hairpin NAT dan cara konfigurasinya."
+description: "Memahami Hairpin NAT dan cara konfigurasinya"
 date: "2024-08-29"
 ---
 
