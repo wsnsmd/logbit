@@ -1,6 +1,6 @@
 ---
 title: "Mengamankan Server dari Webshell dengan Nginx dan ModSecurity"
-description: "Lindungi Server Anda dari Serangan Webshell:"
+description: "Lindungi Server Anda dari Serangan Webshell"
 date: "2024-09-05"
 ---
 
