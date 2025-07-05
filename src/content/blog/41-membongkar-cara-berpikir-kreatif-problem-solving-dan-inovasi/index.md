@@ -4,7 +4,7 @@ description: "Strategi berpikir kreatif dalam menghadapi masalah dan berinovasi"
 date: 2025-07-05
 ---
 
-## Membongkar Cara Berpikir Kreatif: Problem Solving dan Inovasi
+**Membongkar Cara Berpikir Kreatif: Problem Solving dan Inovasi**
 
 Inovasi dan problem solving bukan hanya milik para ilmuwan, CEO, atau teknokrat. Kedua keterampilan ini sangat relevan bagi siapa saja: guru di sekolah, pelaku UMKM, pegawai negeri, hingga orang tua yang ingin mendidik anak secara kreatif. Di tengah dunia yang berubah cepat dan penuh ketidakpastian, kemampuan menyelesaikan masalah secara kreatif adalah kunci bertahan dan berkembang.
 
@@ -12,7 +12,7 @@ Artikel ini mengajak kamu memahami prinsip dasar problem solving dan inovasi, se
 
 ---
 
-### Apa Itu Problem Solving dan Inovasi?
+## Apa Itu Problem Solving dan Inovasi?
 
 **Problem solving** adalah proses berpikir terstruktur untuk mengidentifikasi, memahami, dan mencari solusi atas suatu permasalahan. Sementara itu, **inovasi** adalah kemampuan untuk menciptakan atau mengadaptasi ide-ide baru yang memberikan nilai tambah.
 
@@ -22,7 +22,7 @@ Contoh sederhana: seorang guru yang bosan dengan metode ceramah kemudian mencoba
 
 ---
 
-### Langkah-Langkah Problem Solving yang Efektif
+## Langkah-Langkah Problem Solving yang Efektif
 
 George Polya dalam bukunya *How to Solve It* (1945) menawarkan kerangka sederhana namun ampuh:
 
@@ -40,7 +40,7 @@ George Polya dalam bukunya *How to Solve It* (1945) menawarkan kerangka sederhan
 
 ---
 
-### Tools dan Teknik Problem Solving
+## Tools dan Teknik Problem Solving
 
 Beberapa tools populer yang bisa kamu gunakan:
 
@@ -51,7 +51,7 @@ Beberapa tools populer yang bisa kamu gunakan:
 
 ---
 
-### Pentingnya Inovasi dalam Era Disrupsi
+## Pentingnya Inovasi dalam Era Disrupsi
 
 Inovasi bukanlah sesuatu yang hanya terjadi di laboratorium. Ia bisa terjadi di mana saja. Misalnya:
 
@@ -63,7 +63,7 @@ Tanpa inovasi, organisasi dan individu akan terjebak dalam cara lama yang tak la
 
 ---
 
-### Cara Menumbuhkan Pola Pikir Inovatif
+## Cara Menumbuhkan Pola Pikir Inovatif
 
 Berikut beberapa cara melatih kreativitas dan inovasi:
 
@@ -91,7 +91,7 @@ Berikut beberapa cara melatih kreativitas dan inovasi:
 
 ---
 
-### Studi Kasus: Inovasi dari Dunia Nyata
+## Studi Kasus: Inovasi dari Dunia Nyata
 
 **Netflix** awalnya adalah penyewaan DVD melalui pos. Mereka sadar bahwa model bisnis ini akan punah, lalu bertransformasi menjadi layanan streaming digital. Inovasi mereka mengubah perilaku konsumsi hiburan global.
 
@@ -113,7 +113,7 @@ Pemimpin harus menjadi contoh dengan menunjukkan rasa ingin tahu dan keberanian 
 
 ---
 
-### Kesimpulan
+## Kesimpulan
 
 Problem solving dan inovasi bukan sekadar keterampilan teknis, melainkan pola pikir. Mereka yang terbiasa mempertanyakan, mengobservasi, dan mencoba pendekatan baru akan lebih mudah bertahan dan berkembang di dunia yang cepat berubah.
 
@@ -121,7 +121,7 @@ Setiap masalah adalah peluang untuk berinovasi. Dan setiap inovasi yang berdampa
 
 ---
 
-### Referensi
+## Referensi
 
 1. Polya, G. (1945). *How to Solve It*. Princeton University Press.  
 2. Kelley, T., & Littman, J. (2005). *The Ten Faces of Innovation*. Currency Books.  
