@@ -101,7 +101,7 @@ Berikut beberapa cara melatih kreativitas dan inovasi:
 
 ---
 
-### Membangun Budaya Problem Solving di Organisasi
+## Membangun Budaya Problem Solving di Organisasi
 
 Organisasi yang mendorong karyawan untuk mengidentifikasi masalah dan mengusulkan solusi cenderung lebih adaptif. Caranya antara lain:
 
